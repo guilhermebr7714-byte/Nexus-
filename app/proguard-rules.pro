@@ -1,0 +1,4 @@
+-keep class rikka.shizuku.** { *; }
+-keep class com.nexus.mobiladorpro.core.storage.** { *; }
+-keepattributes *Annotation*,InnerClasses,Signature
+-dontwarn rikka.shizuku.**
